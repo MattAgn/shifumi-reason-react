@@ -1,0 +1,30 @@
+p {
+  margin: 0 30px;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+img {
+  height: 300px;
+  width: 300px;
+  margin: 50px;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  align-items: center;
+}
+
+.row {
+  display: flex;
+  margin-bottom: 30px;
+}
+
+h4 {
+  margin-left: 30px;
+}
